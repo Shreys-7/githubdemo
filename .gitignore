@@ -1,0 +1,6 @@
+#this file is not need
+no need.txt
+#this folder its content is also no need
+fun/
+#do not include any log files
+*.log
